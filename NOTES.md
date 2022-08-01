@@ -1,0 +1,1 @@
+(Base_res_level + Base_res_trinket) * (1 + (Tool% + (Jewels% * ((jc_lvl - 60) * 0.5%)) + (Runes% * ((rc_lvl - 60) * 0.5%))) * (1 + TJR)) * (1 + Prem_res + res_totem + trinket_res% + gath_pot%) * (1 + land% + heroic%) * (1 + shard_res_lvl * 0.5%)
